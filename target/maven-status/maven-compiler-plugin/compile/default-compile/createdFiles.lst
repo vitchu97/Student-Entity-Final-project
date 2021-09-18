@@ -1,0 +1,5 @@
+com\cg\studentmanagement\Student\controller\StudentController.class
+com\cg\studentmanagement\Student\domain\Student.class
+com\cg\studentmanagement\Student\StudentManagementApplication.class
+com\cg\studentmanagement\Student\service\StudentService.class
+com\cg\studentmanagement\Student\repository\StudentRepository.class
